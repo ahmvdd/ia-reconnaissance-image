@@ -1,0 +1,1 @@
+ce code est un petit exercice qui utilise une intelligence artificielle pour analyser une image et essaye de prédire ce que c'est ! (c'est toujours en cours de développement et d'amélioration ) !!
